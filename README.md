@@ -8,3 +8,11 @@ A Few things about this app:-
 
 2.) This app is quite basic.In this you can add contact and you can delete contact as well.
 
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Project Name:Contact List
+Techstack
+Backend:Node js
+Database:mongo db
+
+
