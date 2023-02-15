@@ -19,9 +19,7 @@ Project Name:Contact List
 
 Techstack
 
-Backend:Node js
-
-Database:mongo db
+Node js,express js,and Mongo DB
 
 
 
